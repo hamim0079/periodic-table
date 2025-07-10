@@ -1,0 +1,77 @@
+@import "colors";
+$border-design: solid;
+$border-width: 0.5px;
+$shadow-blur: 10px;
+$shadow-spread: 3px;
+
+%Reactive-non-metals {
+  border: $border-width $border-design $Reactive-non-metals;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Reactive-non-metals;
+  .pcont {
+    color: $Reactive-non-metals;
+  }
+}
+
+%Alkali-metals {
+  border: $border-width $border-design $Alkali-metals;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Alkali-metals;
+  .pcont {
+    color: $Alkali-metals;
+  }
+}
+
+%Alkaline-earth-metals {
+  border: $border-width $border-design $Alkaline-earth-metals;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Alkaline-earth-metals;
+  .pcont {
+    color: $Alkaline-earth-metals;
+  }
+}
+
+%Lanthanoids {
+  border: $border-width $border-design $Lanthanoids;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Lanthanoids;
+  .pcont {
+    color: $Lanthanoids;
+  }
+}
+
+%Actinoids {
+  border: $border-width $border-design $Actinoids;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Actinoids;
+  .pcont {
+    color: $Actinoids;
+  }
+}
+
+%Transition-metal {
+  border: $border-width $border-design $Transition-metal;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Transition-metal;
+  .pcont {
+    color: $Transition-metal;
+  }
+}
+
+%Post-transition-metal {
+  border: $border-width $border-design $Post-transition-metal;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Post-transition-metal;
+  .pcont {
+    color: $Post-transition-metal;
+  }
+}
+
+%Metalloids {
+  border: $border-width $border-design $Metalloids;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Metalloids;
+  .pcont {
+    color: $Metalloids;
+  }
+}
+
+%Noble-gases {
+  border: $border-width $border-design $Noble-gases;
+  box-shadow: 0 0 $shadow-blur $shadow-spread $Noble-gases;
+  .pcont {
+    color: $Noble-gases;
+  }
+}

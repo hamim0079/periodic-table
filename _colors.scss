@@ -1,0 +1,117 @@
+$Alkali-metals: #E44A65;
+$Alkaline-earth-metals: #FA951A;
+$Lanthanoids: #C2DC85;
+$Actinoids: #F8B6D2;
+$Transition-metal: #FFCC03;
+$Post-transition-metal: #AFCC3E;
+$Metalloids: #6FD6FA;
+$Reactive-non-metals: #3681D9;
+$Noble-gases: #B442DA;
+
+.color1 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  color: $Actinoids;
+  border-color: $Actinoids;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Actinoids;
+  text-align: center;
+}
+
+.color2 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 30px;
+  color: $Alkali-metals;
+  border-color: $Alkali-metals;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Alkali-metals;
+  text-align: center;
+}
+
+.color3 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 60px;
+  color: $Alkaline-earth-metals;
+  border-color: $Alkaline-earth-metals;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Alkaline-earth-metals;
+  text-align: center;
+}
+
+.color4 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 90px;
+  color: $Lanthanoids;
+  border-color: $Lanthanoids;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Lanthanoids;
+  text-align: center;
+}
+
+.color5 {
+  width: 200px;
+  height: 20px;
+  left: 800px;
+  top: 0px;
+  color: $Metalloids;
+  border-color: $Metalloids;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Metalloids;
+  text-align: center;
+}
+
+.color6 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  color: $Noble-gases;
+  border-color: $Noble-gases;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Noble-gases;
+  text-align: center;
+}
+
+.color7 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 30px;
+  color: $Post-transition-metal;
+  border-color: $Post-transition-metal;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Post-transition-metal;
+  text-align: center;
+}
+
+.color8 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 60px;
+  color: $Reactive-non-metals;
+  border-color: $Reactive-non-metals;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Reactive-non-metals;
+  text-align: center;
+}
+
+.color9 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 90px;
+  color: $Transition-metal;
+  border-color: $Transition-metal;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px $Transition-metal;
+  text-align: center;
+}
+
+
