@@ -1,0 +1,1818 @@
+.color1 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  color: #F8B6D2;
+  border-color: #F8B6D2;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #F8B6D2;
+  text-align: center;
+}
+
+.color2 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 30px;
+  color: #E44A65;
+  border-color: #E44A65;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #E44A65;
+  text-align: center;
+}
+
+.color3 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 60px;
+  color: #FA951A;
+  border-color: #FA951A;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #FA951A;
+  text-align: center;
+}
+
+.color4 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 90px;
+  color: #C2DC85;
+  border-color: #C2DC85;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #C2DC85;
+  text-align: center;
+}
+
+.color5 {
+  width: 200px;
+  height: 20px;
+  left: 800px;
+  top: 0px;
+  color: #6FD6FA;
+  border-color: #6FD6FA;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #6FD6FA;
+  text-align: center;
+}
+
+.color6 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  color: #B442DA;
+  border-color: #B442DA;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #B442DA;
+  text-align: center;
+}
+
+.color7 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 30px;
+  color: #AFCC3E;
+  border-color: #AFCC3E;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #AFCC3E;
+  text-align: center;
+}
+
+.color8 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 60px;
+  color: #3681D9;
+  border-color: #3681D9;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #3681D9;
+  text-align: center;
+}
+
+.color9 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 90px;
+  color: #FFCC03;
+  border-color: #FFCC03;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #FFCC03;
+  text-align: center;
+}
+
+.color1 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  color: #F8B6D2;
+  border-color: #F8B6D2;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #F8B6D2;
+  text-align: center;
+}
+
+.color2 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 30px;
+  color: #E44A65;
+  border-color: #E44A65;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #E44A65;
+  text-align: center;
+}
+
+.color3 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 60px;
+  color: #FA951A;
+  border-color: #FA951A;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #FA951A;
+  text-align: center;
+}
+
+.color4 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 90px;
+  color: #C2DC85;
+  border-color: #C2DC85;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #C2DC85;
+  text-align: center;
+}
+
+.color5 {
+  width: 200px;
+  height: 20px;
+  left: 800px;
+  top: 0px;
+  color: #6FD6FA;
+  border-color: #6FD6FA;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #6FD6FA;
+  text-align: center;
+}
+
+.color6 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  color: #B442DA;
+  border-color: #B442DA;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #B442DA;
+  text-align: center;
+}
+
+.color7 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 30px;
+  color: #AFCC3E;
+  border-color: #AFCC3E;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #AFCC3E;
+  text-align: center;
+}
+
+.color8 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 60px;
+  color: #3681D9;
+  border-color: #3681D9;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #3681D9;
+  text-align: center;
+}
+
+.color9 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 90px;
+  color: #FFCC03;
+  border-color: #FFCC03;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #FFCC03;
+  text-align: center;
+}
+
+body div.container div.content .row1 .col2 .box2,
+body div.container div.content .row1 .col2 .box3, body div.container div.content .row1 .col1 .box1,
+body div.container div.content .row1 .col1 .box2,
+body div.container div.content .row1 .col1 .box3 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col2 .box2:hover .pop-up,
+body div.container div.content .row1 .col2 .box3:hover .pop-up, body div.container div.content .row1 .col1 .box1:hover .pop-up,
+body div.container div.content .row1 .col1 .box2:hover .pop-up,
+body div.container div.content .row1 .col1 .box3:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up,
+body div.container div.content .row1 .col2 .box3 .pop-up, body div.container div.content .row1 .col1 .box1 .pop-up,
+body div.container div.content .row1 .col1 .box2 .pop-up,
+body div.container div.content .row1 .col1 .box3 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: 0%;
+  left: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up .top1,
+body div.container div.content .row1 .col2 .box3 .pop-up .top1, body div.container div.content .row1 .col1 .box1 .pop-up .top1,
+body div.container div.content .row1 .col1 .box2 .pop-up .top1,
+body div.container div.content .row1 .col1 .box3 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col2 .box3 .pop-up .bottom1, body div.container div.content .row1 .col1 .box1 .pop-up .bottom1,
+body div.container div.content .row1 .col1 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col1 .box3 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col2 .box3 .pop-up .bottom1 .col1, body div.container div.content .row1 .col1 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col1 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col1 .box3 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col2 .box3 .pop-up .bottom1 .col2, body div.container div.content .row1 .col1 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col1 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col1 .box3 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col2 .box3 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col1 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col1 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col1 .box3 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col2 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col2 .box3 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col1 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col1 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col1 .box3 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col18 .box1,
+body div.container div.content .row1 .col18 .box2,
+body div.container div.content .row1 .col18 .box3, body div.container div.content .row1 .col17 .box2,
+body div.container div.content .row1 .col17 .box3, body div.container div.content .row1 .col16 .box2,
+body div.container div.content .row1 .col16 .box3, body div.container div.content .row1 .col15 .box2,
+body div.container div.content .row1 .col15 .box3, body div.container div.content .row1 .col14 .box2,
+body div.container div.content .row1 .col14 .box3, body div.container div.content .row1 .col13 .box2,
+body div.container div.content .row1 .col13 .box3 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col18 .box1:hover .pop-up,
+body div.container div.content .row1 .col18 .box2:hover .pop-up,
+body div.container div.content .row1 .col18 .box3:hover .pop-up, body div.container div.content .row1 .col17 .box2:hover .pop-up,
+body div.container div.content .row1 .col17 .box3:hover .pop-up, body div.container div.content .row1 .col16 .box2:hover .pop-up,
+body div.container div.content .row1 .col16 .box3:hover .pop-up, body div.container div.content .row1 .col15 .box2:hover .pop-up,
+body div.container div.content .row1 .col15 .box3:hover .pop-up, body div.container div.content .row1 .col14 .box2:hover .pop-up,
+body div.container div.content .row1 .col14 .box3:hover .pop-up, body div.container div.content .row1 .col13 .box2:hover .pop-up,
+body div.container div.content .row1 .col13 .box3:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up,
+body div.container div.content .row1 .col18 .box2 .pop-up,
+body div.container div.content .row1 .col18 .box3 .pop-up, body div.container div.content .row1 .col17 .box2 .pop-up,
+body div.container div.content .row1 .col17 .box3 .pop-up, body div.container div.content .row1 .col16 .box2 .pop-up,
+body div.container div.content .row1 .col16 .box3 .pop-up, body div.container div.content .row1 .col15 .box2 .pop-up,
+body div.container div.content .row1 .col15 .box3 .pop-up, body div.container div.content .row1 .col14 .box2 .pop-up,
+body div.container div.content .row1 .col14 .box3 .pop-up, body div.container div.content .row1 .col13 .box2 .pop-up,
+body div.container div.content .row1 .col13 .box3 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: 0%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up .top1,
+body div.container div.content .row1 .col18 .box2 .pop-up .top1,
+body div.container div.content .row1 .col18 .box3 .pop-up .top1, body div.container div.content .row1 .col17 .box2 .pop-up .top1,
+body div.container div.content .row1 .col17 .box3 .pop-up .top1, body div.container div.content .row1 .col16 .box2 .pop-up .top1,
+body div.container div.content .row1 .col16 .box3 .pop-up .top1, body div.container div.content .row1 .col15 .box2 .pop-up .top1,
+body div.container div.content .row1 .col15 .box3 .pop-up .top1, body div.container div.content .row1 .col14 .box2 .pop-up .top1,
+body div.container div.content .row1 .col14 .box3 .pop-up .top1, body div.container div.content .row1 .col13 .box2 .pop-up .top1,
+body div.container div.content .row1 .col13 .box3 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up .bottom1,
+body div.container div.content .row1 .col18 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col18 .box3 .pop-up .bottom1, body div.container div.content .row1 .col17 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col17 .box3 .pop-up .bottom1, body div.container div.content .row1 .col16 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col16 .box3 .pop-up .bottom1, body div.container div.content .row1 .col15 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col15 .box3 .pop-up .bottom1, body div.container div.content .row1 .col14 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col14 .box3 .pop-up .bottom1, body div.container div.content .row1 .col13 .box2 .pop-up .bottom1,
+body div.container div.content .row1 .col13 .box3 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col18 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col18 .box3 .pop-up .bottom1 .col1, body div.container div.content .row1 .col17 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col17 .box3 .pop-up .bottom1 .col1, body div.container div.content .row1 .col16 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col16 .box3 .pop-up .bottom1 .col1, body div.container div.content .row1 .col15 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col15 .box3 .pop-up .bottom1 .col1, body div.container div.content .row1 .col14 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col14 .box3 .pop-up .bottom1 .col1, body div.container div.content .row1 .col13 .box2 .pop-up .bottom1 .col1,
+body div.container div.content .row1 .col13 .box3 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col18 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col18 .box3 .pop-up .bottom1 .col2, body div.container div.content .row1 .col17 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col17 .box3 .pop-up .bottom1 .col2, body div.container div.content .row1 .col16 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col16 .box3 .pop-up .bottom1 .col2, body div.container div.content .row1 .col15 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col15 .box3 .pop-up .bottom1 .col2, body div.container div.content .row1 .col14 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col14 .box3 .pop-up .bottom1 .col2, body div.container div.content .row1 .col13 .box2 .pop-up .bottom1 .col2,
+body div.container div.content .row1 .col13 .box3 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col18 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col18 .box3 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col17 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col17 .box3 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col16 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col16 .box3 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col15 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col15 .box3 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col14 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col14 .box3 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col13 .box2 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row1 .col13 .box3 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col18 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col18 .box3 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col17 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col17 .box3 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col16 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col16 .box3 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col15 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col15 .box3 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col14 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col14 .box3 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col13 .box2 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row1 .col13 .box3 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col8 .box4, body div.container div.content .row1 .col7 .box4, body div.container div.content .row1 .col6 .box4, body div.container div.content .row1 .col5 .box4, body div.container div.content .row1 .col4 .box4, body div.container div.content .row1 .col3 .box4, body div.container div.content .row1 .col2 .box4, body div.container div.content .row1 .col1 .box4 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col8 .box4:hover .pop-up, body div.container div.content .row1 .col7 .box4:hover .pop-up, body div.container div.content .row1 .col6 .box4:hover .pop-up, body div.container div.content .row1 .col5 .box4:hover .pop-up, body div.container div.content .row1 .col4 .box4:hover .pop-up, body div.container div.content .row1 .col3 .box4:hover .pop-up, body div.container div.content .row1 .col2 .box4:hover .pop-up, body div.container div.content .row1 .col1 .box4:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up, body div.container div.content .row1 .col7 .box4 .pop-up, body div.container div.content .row1 .col6 .box4 .pop-up, body div.container div.content .row1 .col5 .box4 .pop-up, body div.container div.content .row1 .col4 .box4 .pop-up, body div.container div.content .row1 .col3 .box4 .pop-up, body div.container div.content .row1 .col2 .box4 .pop-up, body div.container div.content .row1 .col1 .box4 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -130%;
+  left: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up .top1, body div.container div.content .row1 .col7 .box4 .pop-up .top1, body div.container div.content .row1 .col6 .box4 .pop-up .top1, body div.container div.content .row1 .col5 .box4 .pop-up .top1, body div.container div.content .row1 .col4 .box4 .pop-up .top1, body div.container div.content .row1 .col3 .box4 .pop-up .top1, body div.container div.content .row1 .col2 .box4 .pop-up .top1, body div.container div.content .row1 .col1 .box4 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up .bottom1, body div.container div.content .row1 .col7 .box4 .pop-up .bottom1, body div.container div.content .row1 .col6 .box4 .pop-up .bottom1, body div.container div.content .row1 .col5 .box4 .pop-up .bottom1, body div.container div.content .row1 .col4 .box4 .pop-up .bottom1, body div.container div.content .row1 .col3 .box4 .pop-up .bottom1, body div.container div.content .row1 .col2 .box4 .pop-up .bottom1, body div.container div.content .row1 .col1 .box4 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col7 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col6 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col5 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col4 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col3 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col2 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col1 .box4 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col7 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col6 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col5 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col4 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col3 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col2 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col1 .box4 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col7 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col6 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col5 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col4 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col3 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col2 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col1 .box4 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col7 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col6 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col5 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col4 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col3 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col2 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col1 .box4 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col18 .box4, body div.container div.content .row1 .col17 .box4, body div.container div.content .row1 .col16 .box4, body div.container div.content .row1 .col15 .box4, body div.container div.content .row1 .col14 .box4, body div.container div.content .row1 .col13 .box4, body div.container div.content .row1 .col12 .box4, body div.container div.content .row1 .col11 .box4 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col18 .box4:hover .pop-up, body div.container div.content .row1 .col17 .box4:hover .pop-up, body div.container div.content .row1 .col16 .box4:hover .pop-up, body div.container div.content .row1 .col15 .box4:hover .pop-up, body div.container div.content .row1 .col14 .box4:hover .pop-up, body div.container div.content .row1 .col13 .box4:hover .pop-up, body div.container div.content .row1 .col12 .box4:hover .pop-up, body div.container div.content .row1 .col11 .box4:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up, body div.container div.content .row1 .col17 .box4 .pop-up, body div.container div.content .row1 .col16 .box4 .pop-up, body div.container div.content .row1 .col15 .box4 .pop-up, body div.container div.content .row1 .col14 .box4 .pop-up, body div.container div.content .row1 .col13 .box4 .pop-up, body div.container div.content .row1 .col12 .box4 .pop-up, body div.container div.content .row1 .col11 .box4 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -130%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up .top1, body div.container div.content .row1 .col17 .box4 .pop-up .top1, body div.container div.content .row1 .col16 .box4 .pop-up .top1, body div.container div.content .row1 .col15 .box4 .pop-up .top1, body div.container div.content .row1 .col14 .box4 .pop-up .top1, body div.container div.content .row1 .col13 .box4 .pop-up .top1, body div.container div.content .row1 .col12 .box4 .pop-up .top1, body div.container div.content .row1 .col11 .box4 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up .bottom1, body div.container div.content .row1 .col17 .box4 .pop-up .bottom1, body div.container div.content .row1 .col16 .box4 .pop-up .bottom1, body div.container div.content .row1 .col15 .box4 .pop-up .bottom1, body div.container div.content .row1 .col14 .box4 .pop-up .bottom1, body div.container div.content .row1 .col13 .box4 .pop-up .bottom1, body div.container div.content .row1 .col12 .box4 .pop-up .bottom1, body div.container div.content .row1 .col11 .box4 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col17 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col16 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col15 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col14 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col13 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col12 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col11 .box4 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col17 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col16 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col15 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col14 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col13 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col12 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col11 .box4 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col17 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col16 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col15 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col14 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col13 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col12 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col11 .box4 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col17 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col16 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col15 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col14 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col13 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col12 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col11 .box4 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col10 .box4, body div.container div.content .row1 .col9 .box4 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col10 .box4:hover .pop-up, body div.container div.content .row1 .col9 .box4:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up, body div.container div.content .row1 .col9 .box4 .pop-up {
+  background-color: black;
+  width: 550px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -130%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up .top1, body div.container div.content .row1 .col9 .box4 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up .bottom1, body div.container div.content .row1 .col9 .box4 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up .bottom1 .col1, body div.container div.content .row1 .col9 .box4 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up .bottom1 .col2, body div.container div.content .row1 .col9 .box4 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col9 .box4 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box4 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col9 .box4 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col8 .box5, body div.container div.content .row1 .col7 .box5, body div.container div.content .row1 .col6 .box5, body div.container div.content .row1 .col5 .box5, body div.container div.content .row1 .col4 .box5, body div.container div.content .row1 .col3 .box5, body div.container div.content .row1 .col2 .box5, body div.container div.content .row1 .col1 .box5 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col8 .box5:hover .pop-up, body div.container div.content .row1 .col7 .box5:hover .pop-up, body div.container div.content .row1 .col6 .box5:hover .pop-up, body div.container div.content .row1 .col5 .box5:hover .pop-up, body div.container div.content .row1 .col4 .box5:hover .pop-up, body div.container div.content .row1 .col3 .box5:hover .pop-up, body div.container div.content .row1 .col2 .box5:hover .pop-up, body div.container div.content .row1 .col1 .box5:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up, body div.container div.content .row1 .col7 .box5 .pop-up, body div.container div.content .row1 .col6 .box5 .pop-up, body div.container div.content .row1 .col5 .box5 .pop-up, body div.container div.content .row1 .col4 .box5 .pop-up, body div.container div.content .row1 .col3 .box5 .pop-up, body div.container div.content .row1 .col2 .box5 .pop-up, body div.container div.content .row1 .col1 .box5 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -220%;
+  left: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up .top1, body div.container div.content .row1 .col7 .box5 .pop-up .top1, body div.container div.content .row1 .col6 .box5 .pop-up .top1, body div.container div.content .row1 .col5 .box5 .pop-up .top1, body div.container div.content .row1 .col4 .box5 .pop-up .top1, body div.container div.content .row1 .col3 .box5 .pop-up .top1, body div.container div.content .row1 .col2 .box5 .pop-up .top1, body div.container div.content .row1 .col1 .box5 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up .bottom1, body div.container div.content .row1 .col7 .box5 .pop-up .bottom1, body div.container div.content .row1 .col6 .box5 .pop-up .bottom1, body div.container div.content .row1 .col5 .box5 .pop-up .bottom1, body div.container div.content .row1 .col4 .box5 .pop-up .bottom1, body div.container div.content .row1 .col3 .box5 .pop-up .bottom1, body div.container div.content .row1 .col2 .box5 .pop-up .bottom1, body div.container div.content .row1 .col1 .box5 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col7 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col6 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col5 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col4 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col3 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col2 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col1 .box5 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col7 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col6 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col5 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col4 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col3 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col2 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col1 .box5 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col7 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col6 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col5 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col4 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col3 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col2 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col1 .box5 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col7 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col6 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col5 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col4 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col3 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col2 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col1 .box5 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col18 .box5, body div.container div.content .row1 .col17 .box5, body div.container div.content .row1 .col16 .box5, body div.container div.content .row1 .col15 .box5, body div.container div.content .row1 .col14 .box5, body div.container div.content .row1 .col13 .box5, body div.container div.content .row1 .col12 .box5, body div.container div.content .row1 .col11 .box5 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col18 .box5:hover .pop-up, body div.container div.content .row1 .col17 .box5:hover .pop-up, body div.container div.content .row1 .col16 .box5:hover .pop-up, body div.container div.content .row1 .col15 .box5:hover .pop-up, body div.container div.content .row1 .col14 .box5:hover .pop-up, body div.container div.content .row1 .col13 .box5:hover .pop-up, body div.container div.content .row1 .col12 .box5:hover .pop-up, body div.container div.content .row1 .col11 .box5:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up, body div.container div.content .row1 .col17 .box5 .pop-up, body div.container div.content .row1 .col16 .box5 .pop-up, body div.container div.content .row1 .col15 .box5 .pop-up, body div.container div.content .row1 .col14 .box5 .pop-up, body div.container div.content .row1 .col13 .box5 .pop-up, body div.container div.content .row1 .col12 .box5 .pop-up, body div.container div.content .row1 .col11 .box5 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -220%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up .top1, body div.container div.content .row1 .col17 .box5 .pop-up .top1, body div.container div.content .row1 .col16 .box5 .pop-up .top1, body div.container div.content .row1 .col15 .box5 .pop-up .top1, body div.container div.content .row1 .col14 .box5 .pop-up .top1, body div.container div.content .row1 .col13 .box5 .pop-up .top1, body div.container div.content .row1 .col12 .box5 .pop-up .top1, body div.container div.content .row1 .col11 .box5 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up .bottom1, body div.container div.content .row1 .col17 .box5 .pop-up .bottom1, body div.container div.content .row1 .col16 .box5 .pop-up .bottom1, body div.container div.content .row1 .col15 .box5 .pop-up .bottom1, body div.container div.content .row1 .col14 .box5 .pop-up .bottom1, body div.container div.content .row1 .col13 .box5 .pop-up .bottom1, body div.container div.content .row1 .col12 .box5 .pop-up .bottom1, body div.container div.content .row1 .col11 .box5 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col17 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col16 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col15 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col14 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col13 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col12 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col11 .box5 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col17 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col16 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col15 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col14 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col13 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col12 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col11 .box5 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col17 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col16 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col15 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col14 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col13 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col12 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col11 .box5 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col17 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col16 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col15 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col14 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col13 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col12 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col11 .box5 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col10 .box5, body div.container div.content .row1 .col9 .box5 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col10 .box5:hover .pop-up, body div.container div.content .row1 .col9 .box5:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up, body div.container div.content .row1 .col9 .box5 .pop-up {
+  background-color: black;
+  width: 550px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -220%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up .top1, body div.container div.content .row1 .col9 .box5 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up .bottom1, body div.container div.content .row1 .col9 .box5 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up .bottom1 .col1, body div.container div.content .row1 .col9 .box5 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up .bottom1 .col2, body div.container div.content .row1 .col9 .box5 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col9 .box5 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box5 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col9 .box5 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col8 .box6, body div.container div.content .row1 .col7 .box6, body div.container div.content .row1 .col6 .box6, body div.container div.content .row1 .col5 .box6, body div.container div.content .row1 .col4 .box6, body div.container div.content .row1 .col2 .box6, body div.container div.content .row1 .col1 .box6 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col8 .box6:hover .pop-up, body div.container div.content .row1 .col7 .box6:hover .pop-up, body div.container div.content .row1 .col6 .box6:hover .pop-up, body div.container div.content .row1 .col5 .box6:hover .pop-up, body div.container div.content .row1 .col4 .box6:hover .pop-up, body div.container div.content .row1 .col2 .box6:hover .pop-up, body div.container div.content .row1 .col1 .box6:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up, body div.container div.content .row1 .col7 .box6 .pop-up, body div.container div.content .row1 .col6 .box6 .pop-up, body div.container div.content .row1 .col5 .box6 .pop-up, body div.container div.content .row1 .col4 .box6 .pop-up, body div.container div.content .row1 .col2 .box6 .pop-up, body div.container div.content .row1 .col1 .box6 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -310%;
+  left: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up .top1, body div.container div.content .row1 .col7 .box6 .pop-up .top1, body div.container div.content .row1 .col6 .box6 .pop-up .top1, body div.container div.content .row1 .col5 .box6 .pop-up .top1, body div.container div.content .row1 .col4 .box6 .pop-up .top1, body div.container div.content .row1 .col2 .box6 .pop-up .top1, body div.container div.content .row1 .col1 .box6 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up .bottom1, body div.container div.content .row1 .col7 .box6 .pop-up .bottom1, body div.container div.content .row1 .col6 .box6 .pop-up .bottom1, body div.container div.content .row1 .col5 .box6 .pop-up .bottom1, body div.container div.content .row1 .col4 .box6 .pop-up .bottom1, body div.container div.content .row1 .col2 .box6 .pop-up .bottom1, body div.container div.content .row1 .col1 .box6 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col7 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col6 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col5 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col4 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col2 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col1 .box6 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col7 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col6 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col5 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col4 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col2 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col1 .box6 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col7 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col6 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col5 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col4 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col2 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col1 .box6 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col7 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col6 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col5 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col4 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col2 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col1 .box6 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col18 .box6, body div.container div.content .row1 .col17 .box6, body div.container div.content .row1 .col16 .box6, body div.container div.content .row1 .col15 .box6, body div.container div.content .row1 .col14 .box6, body div.container div.content .row1 .col13 .box6, body div.container div.content .row1 .col12 .box6, body div.container div.content .row1 .col11 .box6 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col18 .box6:hover .pop-up, body div.container div.content .row1 .col17 .box6:hover .pop-up, body div.container div.content .row1 .col16 .box6:hover .pop-up, body div.container div.content .row1 .col15 .box6:hover .pop-up, body div.container div.content .row1 .col14 .box6:hover .pop-up, body div.container div.content .row1 .col13 .box6:hover .pop-up, body div.container div.content .row1 .col12 .box6:hover .pop-up, body div.container div.content .row1 .col11 .box6:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up, body div.container div.content .row1 .col17 .box6 .pop-up, body div.container div.content .row1 .col16 .box6 .pop-up, body div.container div.content .row1 .col15 .box6 .pop-up, body div.container div.content .row1 .col14 .box6 .pop-up, body div.container div.content .row1 .col13 .box6 .pop-up, body div.container div.content .row1 .col12 .box6 .pop-up, body div.container div.content .row1 .col11 .box6 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -310%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up .top1, body div.container div.content .row1 .col17 .box6 .pop-up .top1, body div.container div.content .row1 .col16 .box6 .pop-up .top1, body div.container div.content .row1 .col15 .box6 .pop-up .top1, body div.container div.content .row1 .col14 .box6 .pop-up .top1, body div.container div.content .row1 .col13 .box6 .pop-up .top1, body div.container div.content .row1 .col12 .box6 .pop-up .top1, body div.container div.content .row1 .col11 .box6 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up .bottom1, body div.container div.content .row1 .col17 .box6 .pop-up .bottom1, body div.container div.content .row1 .col16 .box6 .pop-up .bottom1, body div.container div.content .row1 .col15 .box6 .pop-up .bottom1, body div.container div.content .row1 .col14 .box6 .pop-up .bottom1, body div.container div.content .row1 .col13 .box6 .pop-up .bottom1, body div.container div.content .row1 .col12 .box6 .pop-up .bottom1, body div.container div.content .row1 .col11 .box6 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col17 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col16 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col15 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col14 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col13 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col12 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col11 .box6 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col17 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col16 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col15 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col14 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col13 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col12 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col11 .box6 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col17 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col16 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col15 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col14 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col13 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col12 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col11 .box6 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col17 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col16 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col15 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col14 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col13 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col12 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col11 .box6 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col10 .box6, body div.container div.content .row1 .col9 .box6 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col10 .box6:hover .pop-up, body div.container div.content .row1 .col9 .box6:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up, body div.container div.content .row1 .col9 .box6 .pop-up {
+  background-color: black;
+  width: 550px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -310%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up .top1, body div.container div.content .row1 .col9 .box6 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up .bottom1, body div.container div.content .row1 .col9 .box6 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up .bottom1 .col1, body div.container div.content .row1 .col9 .box6 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up .bottom1 .col2, body div.container div.content .row1 .col9 .box6 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col9 .box6 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box6 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col9 .box6 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col8 .box7, body div.container div.content .row1 .col7 .box7, body div.container div.content .row1 .col6 .box7, body div.container div.content .row1 .col5 .box7, body div.container div.content .row1 .col4 .box7, body div.container div.content .row1 .col2 .box7, body div.container div.content .row1 .col1 .box7 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col8 .box7:hover .pop-up, body div.container div.content .row1 .col7 .box7:hover .pop-up, body div.container div.content .row1 .col6 .box7:hover .pop-up, body div.container div.content .row1 .col5 .box7:hover .pop-up, body div.container div.content .row1 .col4 .box7:hover .pop-up, body div.container div.content .row1 .col2 .box7:hover .pop-up, body div.container div.content .row1 .col1 .box7:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up, body div.container div.content .row1 .col7 .box7 .pop-up, body div.container div.content .row1 .col6 .box7 .pop-up, body div.container div.content .row1 .col5 .box7 .pop-up, body div.container div.content .row1 .col4 .box7 .pop-up, body div.container div.content .row1 .col2 .box7 .pop-up, body div.container div.content .row1 .col1 .box7 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -440%;
+  left: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up .top1, body div.container div.content .row1 .col7 .box7 .pop-up .top1, body div.container div.content .row1 .col6 .box7 .pop-up .top1, body div.container div.content .row1 .col5 .box7 .pop-up .top1, body div.container div.content .row1 .col4 .box7 .pop-up .top1, body div.container div.content .row1 .col2 .box7 .pop-up .top1, body div.container div.content .row1 .col1 .box7 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up .bottom1, body div.container div.content .row1 .col7 .box7 .pop-up .bottom1, body div.container div.content .row1 .col6 .box7 .pop-up .bottom1, body div.container div.content .row1 .col5 .box7 .pop-up .bottom1, body div.container div.content .row1 .col4 .box7 .pop-up .bottom1, body div.container div.content .row1 .col2 .box7 .pop-up .bottom1, body div.container div.content .row1 .col1 .box7 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col7 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col6 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col5 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col4 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col2 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col1 .box7 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col7 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col6 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col5 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col4 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col2 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col1 .box7 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col7 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col6 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col5 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col4 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col2 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col1 .box7 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col8 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col7 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col6 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col5 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col4 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col2 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col1 .box7 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col18 .box7, body div.container div.content .row1 .col17 .box7, body div.container div.content .row1 .col16 .box7, body div.container div.content .row1 .col15 .box7, body div.container div.content .row1 .col14 .box7, body div.container div.content .row1 .col13 .box7, body div.container div.content .row1 .col12 .box7, body div.container div.content .row1 .col11 .box7 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col18 .box7:hover .pop-up, body div.container div.content .row1 .col17 .box7:hover .pop-up, body div.container div.content .row1 .col16 .box7:hover .pop-up, body div.container div.content .row1 .col15 .box7:hover .pop-up, body div.container div.content .row1 .col14 .box7:hover .pop-up, body div.container div.content .row1 .col13 .box7:hover .pop-up, body div.container div.content .row1 .col12 .box7:hover .pop-up, body div.container div.content .row1 .col11 .box7:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up, body div.container div.content .row1 .col17 .box7 .pop-up, body div.container div.content .row1 .col16 .box7 .pop-up, body div.container div.content .row1 .col15 .box7 .pop-up, body div.container div.content .row1 .col14 .box7 .pop-up, body div.container div.content .row1 .col13 .box7 .pop-up, body div.container div.content .row1 .col12 .box7 .pop-up, body div.container div.content .row1 .col11 .box7 .pop-up {
+  background-color: black;
+  width: 700px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -440%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up .top1, body div.container div.content .row1 .col17 .box7 .pop-up .top1, body div.container div.content .row1 .col16 .box7 .pop-up .top1, body div.container div.content .row1 .col15 .box7 .pop-up .top1, body div.container div.content .row1 .col14 .box7 .pop-up .top1, body div.container div.content .row1 .col13 .box7 .pop-up .top1, body div.container div.content .row1 .col12 .box7 .pop-up .top1, body div.container div.content .row1 .col11 .box7 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up .bottom1, body div.container div.content .row1 .col17 .box7 .pop-up .bottom1, body div.container div.content .row1 .col16 .box7 .pop-up .bottom1, body div.container div.content .row1 .col15 .box7 .pop-up .bottom1, body div.container div.content .row1 .col14 .box7 .pop-up .bottom1, body div.container div.content .row1 .col13 .box7 .pop-up .bottom1, body div.container div.content .row1 .col12 .box7 .pop-up .bottom1, body div.container div.content .row1 .col11 .box7 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col17 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col16 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col15 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col14 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col13 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col12 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col11 .box7 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col17 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col16 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col15 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col14 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col13 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col12 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col11 .box7 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col17 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col16 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col15 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col14 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col13 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col12 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col11 .box7 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col18 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col17 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col16 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col15 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col14 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col13 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col12 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col11 .box7 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row1 .col10 .box7, body div.container div.content .row1 .col9 .box7 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row1 .col10 .box7:hover .pop-up, body div.container div.content .row1 .col9 .box7:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up, body div.container div.content .row1 .col9 .box7 .pop-up {
+  background-color: black;
+  width: 550px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  top: -440%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up .top1, body div.container div.content .row1 .col9 .box7 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up .bottom1, body div.container div.content .row1 .col9 .box7 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up .bottom1 .col1, body div.container div.content .row1 .col9 .box7 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up .bottom1 .col2, body div.container div.content .row1 .col9 .box7 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up .bottom1 .col2 .top2, body div.container div.content .row1 .col9 .box7 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row1 .col10 .box7 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row1 .col9 .box7 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row2 .col8 .box1,
+body div.container div.content .row2 .col8 .box2, body div.container div.content .row2 .col7 .box1,
+body div.container div.content .row2 .col7 .box2, body div.container div.content .row2 .col6 .box1,
+body div.container div.content .row2 .col6 .box2, body div.container div.content .row2 .col5 .box1,
+body div.container div.content .row2 .col5 .box2, body div.container div.content .row2 .col4 .box1,
+body div.container div.content .row2 .col4 .box2 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row2 .col8 .box1:hover .pop-up,
+body div.container div.content .row2 .col8 .box2:hover .pop-up, body div.container div.content .row2 .col7 .box1:hover .pop-up,
+body div.container div.content .row2 .col7 .box2:hover .pop-up, body div.container div.content .row2 .col6 .box1:hover .pop-up,
+body div.container div.content .row2 .col6 .box2:hover .pop-up, body div.container div.content .row2 .col5 .box1:hover .pop-up,
+body div.container div.content .row2 .col5 .box2:hover .pop-up, body div.container div.content .row2 .col4 .box1:hover .pop-up,
+body div.container div.content .row2 .col4 .box2:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up,
+body div.container div.content .row2 .col8 .box2 .pop-up, body div.container div.content .row2 .col7 .box1 .pop-up,
+body div.container div.content .row2 .col7 .box2 .pop-up, body div.container div.content .row2 .col6 .box1 .pop-up,
+body div.container div.content .row2 .col6 .box2 .pop-up, body div.container div.content .row2 .col5 .box1 .pop-up,
+body div.container div.content .row2 .col5 .box2 .pop-up, body div.container div.content .row2 .col4 .box1 .pop-up,
+body div.container div.content .row2 .col4 .box2 .pop-up {
+  background-color: black;
+  width: 550px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  bottom: 15%;
+  left: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up .top1,
+body div.container div.content .row2 .col8 .box2 .pop-up .top1, body div.container div.content .row2 .col7 .box1 .pop-up .top1,
+body div.container div.content .row2 .col7 .box2 .pop-up .top1, body div.container div.content .row2 .col6 .box1 .pop-up .top1,
+body div.container div.content .row2 .col6 .box2 .pop-up .top1, body div.container div.content .row2 .col5 .box1 .pop-up .top1,
+body div.container div.content .row2 .col5 .box2 .pop-up .top1, body div.container div.content .row2 .col4 .box1 .pop-up .top1,
+body div.container div.content .row2 .col4 .box2 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col8 .box2 .pop-up .bottom1, body div.container div.content .row2 .col7 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col7 .box2 .pop-up .bottom1, body div.container div.content .row2 .col6 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col6 .box2 .pop-up .bottom1, body div.container div.content .row2 .col5 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col5 .box2 .pop-up .bottom1, body div.container div.content .row2 .col4 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col4 .box2 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col8 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col7 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col7 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col6 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col6 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col5 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col5 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col4 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col4 .box2 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col8 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col7 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col7 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col6 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col6 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col5 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col5 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col4 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col4 .box2 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col8 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col7 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col7 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col6 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col6 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col5 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col5 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col4 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col4 .box2 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row2 .col8 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col8 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col7 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col7 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col6 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col6 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col5 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col5 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col4 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col4 .box2 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+body div.container div.content .row2 .col18 .box1,
+body div.container div.content .row2 .col18 .box2, body div.container div.content .row2 .col17 .box1,
+body div.container div.content .row2 .col17 .box2, body div.container div.content .row2 .col16 .box1,
+body div.container div.content .row2 .col16 .box2, body div.container div.content .row2 .col15 .box1,
+body div.container div.content .row2 .col15 .box2, body div.container div.content .row2 .col14 .box1,
+body div.container div.content .row2 .col14 .box2, body div.container div.content .row2 .col13 .box1,
+body div.container div.content .row2 .col13 .box2, body div.container div.content .row2 .col12 .box1,
+body div.container div.content .row2 .col12 .box2, body div.container div.content .row2 .col11 .box1,
+body div.container div.content .row2 .col11 .box2, body div.container div.content .row2 .col10 .box1,
+body div.container div.content .row2 .col10 .box2, body div.container div.content .row2 .col9 .box1,
+body div.container div.content .row2 .col9 .box2 {
+  position: relative;
+  cursor: pointer;
+}
+body div.container div.content .row2 .col18 .box1:hover .pop-up,
+body div.container div.content .row2 .col18 .box2:hover .pop-up, body div.container div.content .row2 .col17 .box1:hover .pop-up,
+body div.container div.content .row2 .col17 .box2:hover .pop-up, body div.container div.content .row2 .col16 .box1:hover .pop-up,
+body div.container div.content .row2 .col16 .box2:hover .pop-up, body div.container div.content .row2 .col15 .box1:hover .pop-up,
+body div.container div.content .row2 .col15 .box2:hover .pop-up, body div.container div.content .row2 .col14 .box1:hover .pop-up,
+body div.container div.content .row2 .col14 .box2:hover .pop-up, body div.container div.content .row2 .col13 .box1:hover .pop-up,
+body div.container div.content .row2 .col13 .box2:hover .pop-up, body div.container div.content .row2 .col12 .box1:hover .pop-up,
+body div.container div.content .row2 .col12 .box2:hover .pop-up, body div.container div.content .row2 .col11 .box1:hover .pop-up,
+body div.container div.content .row2 .col11 .box2:hover .pop-up, body div.container div.content .row2 .col10 .box1:hover .pop-up,
+body div.container div.content .row2 .col10 .box2:hover .pop-up, body div.container div.content .row2 .col9 .box1:hover .pop-up,
+body div.container div.content .row2 .col9 .box2:hover .pop-up {
+  visibility: visible;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up,
+body div.container div.content .row2 .col18 .box2 .pop-up, body div.container div.content .row2 .col17 .box1 .pop-up,
+body div.container div.content .row2 .col17 .box2 .pop-up, body div.container div.content .row2 .col16 .box1 .pop-up,
+body div.container div.content .row2 .col16 .box2 .pop-up, body div.container div.content .row2 .col15 .box1 .pop-up,
+body div.container div.content .row2 .col15 .box2 .pop-up, body div.container div.content .row2 .col14 .box1 .pop-up,
+body div.container div.content .row2 .col14 .box2 .pop-up, body div.container div.content .row2 .col13 .box1 .pop-up,
+body div.container div.content .row2 .col13 .box2 .pop-up, body div.container div.content .row2 .col12 .box1 .pop-up,
+body div.container div.content .row2 .col12 .box2 .pop-up, body div.container div.content .row2 .col11 .box1 .pop-up,
+body div.container div.content .row2 .col11 .box2 .pop-up, body div.container div.content .row2 .col10 .box1 .pop-up,
+body div.container div.content .row2 .col10 .box2 .pop-up, body div.container div.content .row2 .col9 .box1 .pop-up,
+body div.container div.content .row2 .col9 .box2 .pop-up {
+  background-color: black;
+  width: 550px;
+  max-height: 400px;
+  visibility: hidden;
+  position: absolute;
+  bottom: 15%;
+  right: 65px;
+  z-index: 10;
+  border: 2px solid white;
+  box-shadow: 0 0 10px 3px white;
+  color: white;
+  overflow: scroll;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up .top1,
+body div.container div.content .row2 .col18 .box2 .pop-up .top1, body div.container div.content .row2 .col17 .box1 .pop-up .top1,
+body div.container div.content .row2 .col17 .box2 .pop-up .top1, body div.container div.content .row2 .col16 .box1 .pop-up .top1,
+body div.container div.content .row2 .col16 .box2 .pop-up .top1, body div.container div.content .row2 .col15 .box1 .pop-up .top1,
+body div.container div.content .row2 .col15 .box2 .pop-up .top1, body div.container div.content .row2 .col14 .box1 .pop-up .top1,
+body div.container div.content .row2 .col14 .box2 .pop-up .top1, body div.container div.content .row2 .col13 .box1 .pop-up .top1,
+body div.container div.content .row2 .col13 .box2 .pop-up .top1, body div.container div.content .row2 .col12 .box1 .pop-up .top1,
+body div.container div.content .row2 .col12 .box2 .pop-up .top1, body div.container div.content .row2 .col11 .box1 .pop-up .top1,
+body div.container div.content .row2 .col11 .box2 .pop-up .top1, body div.container div.content .row2 .col10 .box1 .pop-up .top1,
+body div.container div.content .row2 .col10 .box2 .pop-up .top1, body div.container div.content .row2 .col9 .box1 .pop-up .top1,
+body div.container div.content .row2 .col9 .box2 .pop-up .top1 {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col18 .box2 .pop-up .bottom1, body div.container div.content .row2 .col17 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col17 .box2 .pop-up .bottom1, body div.container div.content .row2 .col16 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col16 .box2 .pop-up .bottom1, body div.container div.content .row2 .col15 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col15 .box2 .pop-up .bottom1, body div.container div.content .row2 .col14 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col14 .box2 .pop-up .bottom1, body div.container div.content .row2 .col13 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col13 .box2 .pop-up .bottom1, body div.container div.content .row2 .col12 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col12 .box2 .pop-up .bottom1, body div.container div.content .row2 .col11 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col11 .box2 .pop-up .bottom1, body div.container div.content .row2 .col10 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col10 .box2 .pop-up .bottom1, body div.container div.content .row2 .col9 .box1 .pop-up .bottom1,
+body div.container div.content .row2 .col9 .box2 .pop-up .bottom1 {
+  width: 100%;
+  max-height: 90%;
+  display: flex;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col18 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col17 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col17 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col16 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col16 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col15 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col15 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col14 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col14 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col13 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col13 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col12 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col12 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col11 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col11 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col10 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col10 .box2 .pop-up .bottom1 .col1, body div.container div.content .row2 .col9 .box1 .pop-up .bottom1 .col1,
+body div.container div.content .row2 .col9 .box2 .pop-up .bottom1 .col1 {
+  width: 60%;
+  height: auto;
+  border: 1px solid white;
+  padding: 10px;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col18 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col17 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col17 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col16 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col16 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col15 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col15 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col14 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col14 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col13 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col13 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col12 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col12 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col11 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col11 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col10 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col10 .box2 .pop-up .bottom1 .col2, body div.container div.content .row2 .col9 .box1 .pop-up .bottom1 .col2,
+body div.container div.content .row2 .col9 .box2 .pop-up .bottom1 .col2 {
+  width: 40%;
+  max-height: 100%;
+  border: 1px solid white;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col18 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col17 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col17 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col16 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col16 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col15 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col15 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col14 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col14 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col13 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col13 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col12 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col12 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col11 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col11 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col10 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col10 .box2 .pop-up .bottom1 .col2 .top2, body div.container div.content .row2 .col9 .box1 .pop-up .bottom1 .col2 .top2,
+body div.container div.content .row2 .col9 .box2 .pop-up .bottom1 .col2 .top2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+body div.container div.content .row2 .col18 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col18 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col17 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col17 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col16 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col16 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col15 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col15 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col14 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col14 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col13 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col13 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col12 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col12 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col11 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col11 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col10 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col10 .box2 .pop-up .bottom1 .col2 .bottom2, body div.container div.content .row2 .col9 .box1 .pop-up .bottom1 .col2 .bottom2,
+body div.container div.content .row2 .col9 .box2 .pop-up .bottom1 .col2 .bottom2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid white;
+  list-style-position: inside;
+  padding: 10px;
+}
+
+.color1 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  color: #F8B6D2;
+  border-color: #F8B6D2;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #F8B6D2;
+  text-align: center;
+}
+
+.color2 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 30px;
+  color: #E44A65;
+  border-color: #E44A65;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #E44A65;
+  text-align: center;
+}
+
+.color3 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 60px;
+  color: #FA951A;
+  border-color: #FA951A;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #FA951A;
+  text-align: center;
+}
+
+.color4 {
+  width: 200px;
+  height: 20px;
+  left: 200px;
+  top: 90px;
+  color: #C2DC85;
+  border-color: #C2DC85;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #C2DC85;
+  text-align: center;
+}
+
+.color5 {
+  width: 200px;
+  height: 20px;
+  left: 800px;
+  top: 0px;
+  color: #6FD6FA;
+  border-color: #6FD6FA;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #6FD6FA;
+  text-align: center;
+}
+
+.color6 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  color: #B442DA;
+  border-color: #B442DA;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #B442DA;
+  text-align: center;
+}
+
+.color7 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 30px;
+  color: #AFCC3E;
+  border-color: #AFCC3E;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #AFCC3E;
+  text-align: center;
+}
+
+.color8 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 60px;
+  color: #3681D9;
+  border-color: #3681D9;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #3681D9;
+  text-align: center;
+}
+
+.color9 {
+  width: 200px;
+  height: 20px;
+  left: 500px;
+  top: 90px;
+  color: #FFCC03;
+  border-color: #FFCC03;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 3px #FFCC03;
+  text-align: center;
+}
+
+.Reactive-non-metals {
+  border: 0.5px solid #3681D9;
+  box-shadow: 0 0 10px 3px #3681D9;
+}
+.Reactive-non-metals .pcont {
+  color: #3681D9;
+}
+
+.Alkali-metals {
+  border: 0.5px solid #E44A65;
+  box-shadow: 0 0 10px 3px #E44A65;
+}
+.Alkali-metals .pcont {
+  color: #E44A65;
+}
+
+.Alkaline-earth-metals {
+  border: 0.5px solid #FA951A;
+  box-shadow: 0 0 10px 3px #FA951A;
+}
+.Alkaline-earth-metals .pcont {
+  color: #FA951A;
+}
+
+.Lanthanoids {
+  border: 0.5px solid #C2DC85;
+  box-shadow: 0 0 10px 3px #C2DC85;
+}
+.Lanthanoids .pcont {
+  color: #C2DC85;
+}
+
+.Actinoids {
+  border: 0.5px solid #F8B6D2;
+  box-shadow: 0 0 10px 3px #F8B6D2;
+}
+.Actinoids .pcont {
+  color: #F8B6D2;
+}
+
+.Transition-metal {
+  border: 0.5px solid #FFCC03;
+  box-shadow: 0 0 10px 3px #FFCC03;
+}
+.Transition-metal .pcont {
+  color: #FFCC03;
+}
+
+.Post-transition-metal {
+  border: 0.5px solid #AFCC3E;
+  box-shadow: 0 0 10px 3px #AFCC3E;
+}
+.Post-transition-metal .pcont {
+  color: #AFCC3E;
+}
+
+.Metalloids {
+  border: 0.5px solid #6FD6FA;
+  box-shadow: 0 0 10px 3px #6FD6FA;
+}
+.Metalloids .pcont {
+  color: #6FD6FA;
+}
+
+.Noble-gases {
+  border: 0.5px solid #B442DA;
+  box-shadow: 0 0 10px 3px #B442DA;
+}
+.Noble-gases .pcont {
+  color: #B442DA;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  width: 100%;
+  height: 14.3%;
+}
+.box .phead {
+  width: 100%;
+  height: 20%;
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+}
+.box .pcont {
+  width: 100%;
+  height: 40%;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.box .pbody {
+  width: 100%;
+  height: 20%;
+  font-size: 9px;
+  font-weight: bold;
+  color: white;
+}
+.box .pfoot {
+  width: 100%;
+  height: 20%;
+  font-size: 9px;
+  font-weight: bold;
+  color: white;
+}
+
+.sbox {
+  width: 100%;
+  height: 49.5%;
+}
+.sbox .phead {
+  width: 100%;
+  height: 20%;
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+}
+.sbox .pcont {
+  width: 100%;
+  height: 40%;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.sbox .pbody {
+  width: 100%;
+  height: 20%;
+  font-size: 9px;
+  font-weight: bold;
+  color: white;
+}
+.sbox .pfoot {
+  width: 100%;
+  height: 20%;
+  font-size: 9px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  color: #6fd6fa;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+body {
+  background-color: black;
+}
+body div.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body div.container div.head {
+  width: 100%;
+  height: 10%;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body div.container div.content {
+  width: 96%;
+  height: 84%;
+  position: relative;
+}
+body div.container div.content .row1 {
+  width: 100%;
+  height: 73%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1%;
+}
+body div.container div.content .row1 .col1 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col2 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col3 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col4 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col5 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col6 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col7 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col8 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col9 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col10 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col11 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col12 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col13 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col14 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col15 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col16 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col17 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row1 .col18 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 {
+  width: 100%;
+  height: 24%;
+  display: flex;
+  justify-content: center;
+}
+body div.container div.content .row2 .col1 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col2 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col3 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col4 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col5 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col6 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col7 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col8 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col9 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col10 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col11 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col12 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col13 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col14 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col15 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col16 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col17 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.content .row2 .col18 {
+  width: 5.4%;
+  height: 100%;
+}
+body div.container div.footer {
+  width: 100%;
+  height: 6%;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
